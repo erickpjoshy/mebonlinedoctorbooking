@@ -1,0 +1,14 @@
+.signup {
+  margin: 20px auto;
+  height: auto;
+  max-width: 400px;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  width: auto;
+}
+
+.signup .paragraph:hover {
+  color: #e2f956 !important;
+  cursor: pointer;
+}

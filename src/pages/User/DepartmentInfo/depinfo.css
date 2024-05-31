@@ -1,0 +1,50 @@
+.img-container .content {
+  background-color: #0000005e;
+  width: 100%;
+  height: 100%;
+}
+
+.deptinfo h1 {
+  color: #0a2a6c;
+  text-align: left;
+  text-transform: capitalize;
+}
+.img-container .content h1 {
+  text-transform: uppercase;
+  font-size: 40px;
+  font-weight: 600;
+  color: #fff;
+}
+.deptinfo p,
+.deptinfo h2 {
+  color: #328090;
+}
+.deptinfo h2 {
+  font-size: 28px;
+  margin: 10px 0;
+}
+.deptinfo p {
+  color: #0a2a6c;
+}
+
+.deptinfo .icon {
+  color: #328090;
+  font-size: 20px;
+}
+.deptinfo button {
+  font-weight: 600;
+  color: #328090;
+  border: 0.0875rem solid #328090;
+  padding: 4px 8px;
+}
+.doctor {
+  border-bottom: 0.0625rem solid #468c9a17;
+}
+.doctor .img-cont {
+  max-width: 220px;
+}
+@media (min-width: 768px) {
+  .h-98 {
+    height: 30rem !important;
+  }
+}

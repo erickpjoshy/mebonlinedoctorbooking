@@ -1,0 +1,34 @@
+/* .infobanner-container .imgcontainer {
+  height: 350px;
+} */
+
+.infobanner-container .box {
+  border-right: 1px solid #eceef1;
+  text-align: center;
+  padding: 0 1rem;
+  margin-top: 1rem;
+}
+.infobanner-container .box h1 {
+  font-size: 1.75rem;
+  line-height: 2.8125rem;
+  font-weight: bold;
+  color: #103547;
+  margin: 0px;
+}
+.infobanner-container .box h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.625rem;
+  font-weight: 500;
+  color: #328090;
+}
+
+.infobanner-container .box p {
+  color: #384f7e;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  font-weight: 400;
+}
+
+.infobanner-container .lastbox {
+  border-right: 0px;
+}

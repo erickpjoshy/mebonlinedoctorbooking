@@ -1,0 +1,39 @@
+.no-app {
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 5px 10px;
+}
+
+.appointments .userimage,
+.appointments .doctorimage {
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid #2b7786;
+  height: 140px;
+  width: 140px;
+  margin: 20px;
+}
+
+.appointments .transfericon i {
+  font-size: 26px;
+}
+.cancel {
+  background-color: rgb(175 175 175 / 50%) !important;
+}
+.appointments h2 {
+  font-size: 20px;
+  margin-top: 6px;
+}
+.m-top {
+  margin-top: 0px !important;
+}
+@media (max-width: 408px) {
+  .appointments .userimage,
+  .appointments .doctorimage {
+    height: 100px;
+    width: 100px;
+  }
+  .appointments .imagecontainer {
+    justify-content: center;
+  }
+}

@@ -1,0 +1,57 @@
+/* .left-container {
+  width: 20%;
+}
+
+.right-container {
+  width: 80%;
+} */
+
+.card {
+  /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+  min-height: 200px;
+  background-color: #fff;
+  border: none;
+}
+.card-holder {
+  width: 25%;
+  padding: 0 5px;
+}
+.cardcont {
+  flex-wrap: wrap;
+}
+.profile-img {
+  width: 60px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 50%;
+  height: 60px;
+  overflow: hidden;
+}
+
+.card p {
+  font-size: 10px;
+}
+
+.statusbutton {
+  font-size: 10px;
+  padding: 4px 12px;
+  border-radius: 16px;
+  margin-top: 8px;
+  color: #fff;
+}
+.bg-orng {
+  background-color: orange;
+}
+.bg-green {
+  background-color: green;
+}
+.bg-red {
+  background-color: red;
+}
+.deletebutton {
+  font-size: 10px;
+  padding: 4px 12px;
+  background-color: red;
+  border-radius: 16px;
+  margin-top: 8px;
+  color: #fff;
+}

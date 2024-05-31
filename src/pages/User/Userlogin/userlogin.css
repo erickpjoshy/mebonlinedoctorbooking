@@ -1,0 +1,16 @@
+.user .login {
+  height: 500px;
+  max-width: 400px;
+  background-color: #fff;
+  padding: 20px;
+  width: auto;
+}
+
+.login .paragraph:hover {
+  color: #e2f956 !important;
+  cursor: pointer;
+}
+
+.login-details h2 {
+  font-size: 12px !important;
+}

@@ -1,0 +1,15 @@
+.addslot .border {
+  padding: 20px;
+  margin: 50px auto !important;
+  overflow: hidden;
+}
+
+.addslot .card {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 20px;
+  min-height: 100px;
+}
+
+.addslot .primary-button {
+  max-width: 125px !important;
+}

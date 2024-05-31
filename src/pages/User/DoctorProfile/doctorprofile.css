@@ -1,0 +1,48 @@
+.doctordetails {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 3%;
+}
+.doctordetails .imagecontainer {
+  border-radius: 14px;
+  max-width: 180px;
+  overflow: hidden;
+}
+
+.doctor h2 {
+  color: #328090;
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+.doctor p {
+  color: #0a2a6c;
+}
+
+.doctor .icon {
+  color: #328090;
+  font-size: 20px;
+}
+
+.border {
+  border: 1px solid #328090;
+  color: #0a2a6c;
+  padding: 20px 2px;
+  text-align: center;
+  margin: 1px auto !important;
+}
+
+.item-width {
+  width: 240px;
+}
+
+.booked .border {
+  background-color: #80808029;
+  color: grey;
+}
+
+@media (max-width: 543px) {
+  .doctordetails .flex-wrap {
+    justify-content: center;
+  }
+}
