@@ -11,7 +11,7 @@ const StartPage = () => {
     }
   };
   return (
-    <div className="starting container mx-auto mt-12">
+    <div className="starting container mx-auto mt-32">
       <div className="border">
         <div className="imagecontainer">
           <img
